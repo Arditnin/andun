@@ -1,0 +1,1 @@
+ DISM /online /Set-Edition:ServerStandard /ProductKey:DBGBW-NPF86-BJVTX-K3WKJ-MTB6V /AcceptEula
